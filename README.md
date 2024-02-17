@@ -30,3 +30,26 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/alivapriyadarshini5/minizuba.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd minizuba
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and navigate to http://localhost:3000.
+6. You can now view the order lines in the application.
+
+
