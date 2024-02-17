@@ -15,7 +15,7 @@ function OrderLines() {
   const fetchOrderLines = async () => {
     try {
       setIsLoading(true);
-      const typeID = selectedPackage || 1; // Assuming default packaging type ID
+      const typeID = selectedPackage || 1; 
       const response = await fetch(
         `https://minizuba-fn.azurewebsites.net/api/orderlines?type_id=${typeID}&page=${pageNumber}&pageSize=${pageSize}`
       );
