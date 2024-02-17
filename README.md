@@ -13,7 +13,7 @@ This web application allows users to view order lines fetched from an API. Users
 
 ## Technologies Used
 
-- **React**: Frontend framework for building the user interface.
+- **Next.js**: Frontend framework for building the user interface.
 - **JavaScript (ES6+)**: Programming language for frontend logic.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **useState**: React hook for managing component state.
