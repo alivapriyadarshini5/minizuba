@@ -4,8 +4,8 @@ function OrderLines() {
   const [orderLines, setOrderLines] = useState([]);
   const [filteredOrderLines, setFilteredOrderLines] = useState([]);
   const [quantityFilter, setQuantityFilter] = useState("");
-  const [pageNumber, setPageNumber] = useState(50);
-  const [pageSize, setPageSize] = useState(100); 
+  const [pageNumber, setPageNumber] = useState(1);
+  const [pageSize, setPageSize] = useState(25); 
   const [isLoading, setIsLoading] = useState(true); 
   const [selectedPackage, setSelectedPackage] = useState(1);
 
