@@ -20,7 +20,7 @@ This web application allows users to view order lines fetched from an API. Users
 - **useEffect**: React hook for managing side effects.
 - **fetch API**: JavaScript interface for fetching resources asynchronously.
 - **async/await**: Asynchronous programming syntax for handling asynchronous operations.
-- **GitHub**: Version control and repository hosting.
+- **GitHub**: Version control 
 
 ## Getting Started
 
